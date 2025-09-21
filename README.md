@@ -24,7 +24,7 @@ Output pada gambar memperlihatkan hasil ketika user memilih menu 3 (Cari ID/Nama
 
 Output pada gambar menunjukkan hasil saat user memilih menu 4 (Ubah Data Koleksi) pada aplikasi Manajemen Koleksi Fashion. Setelah memasukkan ID 8, program menampilkan data lama dari item dengan opsi untuk memperbarui setiap atribut, seperti Nama, Kategori, Ukuran, Warna, Brand, dan Tahun. Jika user ingin mempertahankan data sebelumnya, cukup menekan Enter tanpa mengetikkan input baru. Pada contoh ini, user memperbarui ukuran menjadi S, L, XL serta warna menjadi Hitam, Putih, Coklat, sementara atribut lain tetap dipertahankan. Setelah perubahan disimpan, program menampilkan pesan “Item berhasil diperbarui”, yang menandakan proses update koleksi berhasil dilakukan. Hal ini menunjukkan bahwa fitur edit koleksi berjalan dengan baik dan memberi fleksibilitas bagi user untuk mengubah data sesuai kebutuhan.
 
-![Uploading WhatsApp Image 2025-09-19 at 22.38.11_5c81c234.jpg…]()
+![WhatsApp Image 2025-09-19 at 22 38 11_a145efb3](https://github.com/user-attachments/assets/dec22722-723f-485b-9ca6-675eab2f7968)
 
 Output pada gambar memperlihatkan hasil saat user memilih menu 5 (Hapus Koleksi) pada aplikasi Manajemen Koleksi Fashion. Program meminta input berupa ID dari item yang ingin dihapus, namun user memasukkan “11 Kaos Polo” yang berisi kombinasi ID dan nama produk. Sistem kemudian menampilkan pesan “Tidak Valid, Harap Masukkan ID!” karena input tidak sesuai format yang benar. Dari hasil ini terlihat bahwa fitur hapus koleksi hanya menerima input berupa angka ID saja, sehingga user perlu memasukkan angka 11 tanpa tambahan teks lain agar proses penghapusan dapat berhasil dijalankan.
 
